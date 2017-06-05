@@ -1,6 +1,7 @@
 {
   "name": "@joeyferris/node-recursive-copy",
   "version": "1.0.0",
+  "description": "Recursive copy using Node.js",
   "main": "index.js",
   "repository": "https://github.com/josephferris/node-recursive-copy.git",
   "author": "Joey Ferris <joey@joeyferris.io>",
