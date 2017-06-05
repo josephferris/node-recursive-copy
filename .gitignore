@@ -1,0 +1,12 @@
+# Node.js and NPM
+node_modules/
+npm-debug.log
+
+.DS_STORE
+coverage
+build
+*.log
+.opt-in
+.nyc_output/
+.vscode/
+.eslintcache
