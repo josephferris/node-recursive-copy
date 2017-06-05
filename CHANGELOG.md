@@ -8,4 +8,4 @@ All notable changes to this project will be documented in this file.
 
 ### Features
 
-* **initial-release:**  Initial setup of node-recursive-copy ([](https://github.com/josephferris/node-recursive-copy/commit/))
+* **initial-release:**  Initial setup of node-recursive-copy ([29b0385](https://github.com/josephferris/node-recursive-copy/commit/29b0385))
